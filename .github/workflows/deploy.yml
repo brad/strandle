@@ -33,4 +33,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dest
           publish_branch: pages
-          destination_dir: dust
+          destination_dir: dest
