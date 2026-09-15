@@ -1,7 +1,7 @@
 import { PUZZLES } from './puzzles';
 import { Position, ProbeColor, GameState } from './types';
 
-const MAX_PROBES = 6;
+const MAX_PROBES = 3;
 const HINT_STEPS = 3;
 const EMOJI: Record<string, string> = {
   green: "🟩",
